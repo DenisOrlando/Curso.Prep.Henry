@@ -1,0 +1,17 @@
+1.-
+
+Definiciones.
+
+Variables: son todas aquellas formas de almacenar contenido que se usará mas adelante. En caso de JS, no se declara el tipo, como si sucede en otros lenguajes, y se puede modificar y reestablecer si se necesita.
+
+Strings: es una cadena de texto que siempre debe ir, o entre comillas simples o dobles.
+
+Funciones: son un conjunto de instrucciones, que deben estar escritos de determinada forma. Son leídas por la computadora y ejecutadas, realizando lo que se desea.
+
+Argumentos: es la información que le pasaremos a las funciones para que trabajen con ella. Se realizan las operaciones de la funcion utilizando los argumentos que le pasamos.
+
+return: la declaración return, sirve para devolver el resultado de lo que la función realizó. Es la única forma de obtener la información de la funcion.
+
+Declaracion if: es una declaración SI de forma condicional, tiene una estructura en la cual SI se cumple una condición, se realiza una determinada acción, sino se hace otra cosa.
+
+Valores booleanos (true, false): es un tipo de dato, que nos indica si algo puede ser verdadero o falso. Esos son sus dos valores.
