@@ -1,0 +1,6 @@
+Definiciones:
+
+for: es un tipo de estructura, dentro de la programación que repite lo que está codificado dentro de ella, la cantidad de veces que se indique en sus condiciones.
+&& es un operador lógico, sería un "y", que cuando se dan ciertas condiciones en una expresión verifica que todas sean verdad, si al menos una es falsa, este operador cuenta a toda la expresión como falsa. De lo contrario será verdadera.
+|| similar al caso anterior, este sería un "o", en una expresión con determinadas condiciones verificará que al menos una de ellas sea verdadera, allí dará a la expresion entera como verdad, de lo contrario sera falsa.
+! es una expresión que niega a otra, o la convierte en lo contrario, por ejemplo el igual (=) bajo esta expresión (!=) se convertiría en desigual o diferente.
