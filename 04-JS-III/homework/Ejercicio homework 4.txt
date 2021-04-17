@@ -1,0 +1,11 @@
+Definiciones:
+
+Arrays: Es una estructura de datos, la cual, se define como aquello que puede contener varios datos dentro suyo. Puede contener la cantidad de datos que se desee y pueden ser de diferente tipo.
+Se declaran así:
+
+var array = [] // en este ejemplo esto es un arreglo vacío.
+
+var array [1, 2, 3] o así en el caso de declarar el arreglo de forma literal. La posicion de los elementos siempre comienza en 0.
+
+Se puede operar accediendo a los datos de forma individual, o recorriendo todos los datos con una estructura de repetición, por ejemplo for.
+
