@@ -1,0 +1,14 @@
+Definiciones:
+
+Objetos: es una forma de almacenar datos, una estructura de datos, estos contienen información acerca de una sola cosa, contienen características (propiedades) de esa cosa, 
+y la forma de almacenarlas es a través de algo llamado "Clave:Valor" (Key:Value) la clave es un identificador de lo que se va a almacenar allí, y el valor es el dato que contiene.
+
+Propiedades: Es una determinada característica que posee el objeto, puede contener cantidades ilimitadas de características. Por ejemplo si almacenamos un objeto llamado "persona", podemos
+tener una propiedad que sea "edad" e indique justamente, la edad de la persona que se está almacenando en el objeto.
+
+Método: son funciones almacenadas dentro de los objetos.
+
+Bucles for ... in: Es la forma de recorrer por los datos que posee un objeto almacenados, ya que en matrices la recorrida se realizaba a través del numero de índice, en este caso, 
+como los "indices" son las "keys" y estas pueden tener nombres diferentes, es que surgió esta forma de recorrer los objetos a través del bucle for...in.
+
+Notación de puntos y de corchetes: Son formas diferentes de acceder a los datos (claves) de los objetos, son dos formas válidas pero ambas tienen ventajas y desventajas.
