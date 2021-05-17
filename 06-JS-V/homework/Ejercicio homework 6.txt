@@ -1,0 +1,5 @@
+Definiciones:
+
+Prototype: un objeto en JavaScript tiene otro llamado prototipo. Cuando se busca una propiedad en un objeto y este no la tiene, irá a buscar la propiedad por defecto, que es la que estaría en el prototipo.
+
+Constructor: es la forma de crear e inicializar un objeto creado a partir de una clase.
